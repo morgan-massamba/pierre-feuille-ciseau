@@ -1,4 +1,4 @@
-# app
+# Rock paper scissors game made in Vue.js.
 
 ## Project setup
 ```
